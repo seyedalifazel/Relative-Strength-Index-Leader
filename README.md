@@ -1,6 +1,8 @@
 # Relative-Strength-Index-Leader
 RSIL - Relative Strength Index Leader - Technical Indicator in Pine Script (TradingView platform)
 
+<a href="https://www.buymeacoffee.com/seyedalifazel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="120"></a>
+
 what will happen for the RSI if the price will increases or decreases by X percent? This indicator takes your hands.
 
 For instance:
